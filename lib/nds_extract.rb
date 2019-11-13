@@ -22,6 +22,5 @@ mg_total = 0
     mg_total += movie[:worldwide_gross]
     #director_total[director[:name]]
   end
-
   return mg_total
 end
